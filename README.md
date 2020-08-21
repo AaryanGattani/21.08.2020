@@ -1,1 +1,2 @@
-# 21.08.2020
+# collisionAlgorithm
+Algorithm to detect collision between two objects
